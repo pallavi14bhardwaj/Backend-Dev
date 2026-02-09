@@ -1,0 +1,9 @@
+[
+  {
+    "DATE": "2026-02-09T17:47:32.955Z",
+    "Platform": "win32",
+    "CPU_Cores": 20,
+    "Memory_in_bytes": 16849743872,
+    "Free_memory": 5382885376
+  }
+]
