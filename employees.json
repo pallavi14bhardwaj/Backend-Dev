@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1771579154678,
+    "name": "Pallavi Bhardwaj",
+    "department": "IT",
+    "salary": 100000
+  },
+  {
+    "id": 1771579219932,
+    "name": "Angle Priya",
+    "department": "IT",
+    "salary": 50000
+  },
+  {
+    "id": 1771579255433,
+    "name": "Neha Katiyar",
+    "department": "IT",
+    "salary": 80000
+  },
+  {
+    "id": 1771579281090,
+    "name": "Ashutosh ",
+    "department": "IT",
+    "salary": 450000
+  },
+  {
+    "id": 1771580791414,
+    "name": "Khushi thakur",
+    "department": "Marketing",
+    "salary": 25000
+  },
+  {
+    "id": 1771580839406,
+    "name": "Reyansh roy",
+    "department": "HR",
+    "salary": 68000
+  },
+  {
+    "id": 1771580867576,
+    "name": "Reeta Rani",
+    "department": "Marketing",
+    "salary": 25000
+  }
+]
